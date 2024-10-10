@@ -56,6 +56,12 @@ bindsym $win+f exec firefox
 # kill focused window
 bindsym $win+q kill
 
+# start editor
+bindsym $win+c exec emacs
+
+#file explorer
+bindsym $win+e exec nemo
+
 # start dmenu (a program launcher)
 bindsym $win+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
@@ -100,7 +106,7 @@ bindsym $win+Return fullscreen toggle
 # change container layout (stacked, tabbed, toggle split)
 bindsym $win+s layout stacking
 bindsym $win+w layout tabbed
-bindsym $win+e layout toggle split
+bindsym $win+Shift+e layout toggle split
 
 # toggle tiling / floating
 bindsym $win+Shift+space floating toggle
