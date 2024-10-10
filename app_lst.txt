@@ -1,0 +1,6 @@
+picom
+kitty
+firefox
+nemo
+gvfs-mtp
+ntfs-3g
