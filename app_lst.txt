@@ -4,3 +4,4 @@ firefox
 nemo
 gvfs-mtp
 ntfs-3g
+emacs
