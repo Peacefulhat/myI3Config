@@ -60,7 +60,7 @@ bindsym $win+q kill
 bindsym $win+c exec emacs
 
 #file explorer
-bindsym $alt+e exec nemo
+bindsym $win+$alt+e exec nemo
 
 # start dmenu (a program launcher)
 bindsym $win+d exec --no-startup-id dmenu_run
