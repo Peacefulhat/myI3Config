@@ -5,3 +5,8 @@ nemo
 gvfs-mtp
 ntfs-3g
 emacs
+ttf-fira-code
+neovim
+polkit-kde-agent
+ranger
+feh

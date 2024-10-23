@@ -1,5 +1,6 @@
 #!/bin/zsh
 #simple package installer
+echo "Installing apps needed...."
 file_path=$1
 
 while read -r line; do
