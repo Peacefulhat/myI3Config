@@ -10,3 +10,4 @@ neovim
 polkit-kde-agent
 ranger
 feh
+dmenu
